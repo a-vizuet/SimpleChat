@@ -1,0 +1,56 @@
+#messages{
+	max-height: 50.5rem;
+	overflow-y: scroll;
+	border: 1px solid #eee;
+	box-shadow: 0px 0px 20px #ccc inset;
+}
+
+#users{
+	max-height: 50.5rem;
+	overflow-y: scroll;
+	border: 1px solid #eee;
+	box-shadow: 0px 0px 0px #ccc inset;
+}
+
+
+.message{
+	margin: 20px;
+}
+
+.pmessage {
+	text-overflow: ellipsis;
+}
+
+.myalert {
+	color: #000000;
+	background-color: #eee;
+	border-color: #000000;
+}
+
+#alert2 {
+	display: none;
+}
+
+#alert1 {
+	display: none;
+}
+
+.chat {
+	display: none;
+}
+
+.login {
+	width: 40%;
+	padding: 7px;
+	background: green;
+	text-align: center;
+	margin-top: 25%;
+	margin-left: 30%;
+	border-radius: 7px;
+	background: #087f12;
+	color: white;
+}
+
+hr {
+	background-color: white;
+}
