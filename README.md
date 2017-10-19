@@ -6,6 +6,6 @@ Sólo tienes que introducir tu nombre de usuario, después se despliega el chat 
 
 Ésta fue una tarea para la asignatura de Sistemas Distribuidos, y para testearlo lo subí a heroku.
 
-[michatjaja.herokuapp.com]
+[http://www.michatjaja.herokuapp.com/]
 
 Espero hacerle mejoras en el frontend y agregar más funcionalidades al chat. Con ésto aprendí a usar web sockets y mejorar con mis habilidades de JavaScript, Jquery y Node.js
