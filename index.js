@@ -49,10 +49,5 @@ io.on('connection', (socket) => {
 
 server.listen(port, (err) => {
 	if(err) console.error("Ha habido un problema al iniciar el servidor :( Error: "+err);
-<<<<<<< HEAD
 	else console.info("Se ha iniciado el server en el puerto "+port+"!!");	
 })
-=======
-	else console.info("Se ha iniciado el server en http://localhost:"+port+"!!");	
-})
->>>>>>> 344d94df3b6294d8a37923efd72d3f4fe3046983
